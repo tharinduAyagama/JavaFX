@@ -5,6 +5,7 @@ public class Main {
 //        Application.launch(FirstApplication.class);
 //        Application.launch(Scenes.class);
 //        Application.launch(ImageViewLabel.class);
-        Application.launch(HyperLink.class);
+//        Application.launch(HyperLink.class);
+        Application.launch(CssStyling.class);
     }
 }
