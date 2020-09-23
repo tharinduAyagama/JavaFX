@@ -10,6 +10,7 @@ public class Main {
 //        Application.launch(Buton.class);
 //        Application.launch(HboxVbox.class);
 //        Application.launch(BorderPan.class);
-        Application.launch(StackPan.class);
+//        Application.launch(StackPan.class);
+        Application.launch(Gridpan.class);
     }
 }

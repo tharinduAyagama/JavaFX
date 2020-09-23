@@ -20,6 +20,7 @@ public class BorderPan extends Application {
         Button b4 = new Button("D");
         Button b5 = new Button("E");
         BorderPane root = new BorderPane();
+
         root.setCenter(b1);
         root.setLeft(b2);
         root.setRight(b3);
