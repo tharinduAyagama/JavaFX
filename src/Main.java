@@ -9,6 +9,7 @@ public class Main {
 //        Application.launch(CssStyling.class);
 //        Application.launch(Buton.class);
 //        Application.launch(HboxVbox.class);
-        Application.launch(BorderPan.class);
+//        Application.launch(BorderPan.class);
+        Application.launch(StackPan.class);
     }
 }
