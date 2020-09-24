@@ -11,6 +11,7 @@ public class Main {
 //        Application.launch(HboxVbox.class);
 //        Application.launch(BorderPan.class);
 //        Application.launch(StackPan.class);
-        Application.launch(Gridpan.class);
+//        Application.launch(Gridpan.class);
+        Application.launch(BasicFXML.class);
     }
 }
